@@ -1,7 +1,7 @@
 # Introduction
 
-This repository contains a collection of useful scripts, functions, one-liners, etc. related to spatial functions and operators of the Oracle Database.
-There is no additional licensing required to run any of the code examples in an Oracle Data of your choice (on-prem or as cloud service).
+This repository contains a collection of useful scripts, functions, one-liners, etc. related to spatial functions and operators of the Oracle Database.  
+There is no additional licensing required to run any of the code examples in an Oracle Database of your choice (on-prem or as cloud service).
 
 ## Disclaimer
 
