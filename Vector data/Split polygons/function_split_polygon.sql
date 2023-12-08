@@ -11,11 +11,11 @@
 --    Neither this script/function, nor any part of it other than those parts that are explicitly #
 --    copied from others, may be republished without author(s) express written permission. 
 --    Author(s) retain the right to alter this disclaimer at any time.
---
+--------------------------------------------------------------------------------
 --  Author: Dan Geringer
 --  Created: Dec 2023
---------------------------------------------------------------------------------
---  Function split_polygon
+--
+--  Function SPLIT_POLYGON
 --
 --     INPUT:
 --               poly_geom - polygon to split
